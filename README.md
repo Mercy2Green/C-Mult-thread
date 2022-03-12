@@ -4,3 +4,6 @@
 #2022年3月12日
 线程共享信息与互斥锁的使用
    #include <mutex>
+   mutex mutex1;
+   mutex.lock();
+   mutex.unlock();
