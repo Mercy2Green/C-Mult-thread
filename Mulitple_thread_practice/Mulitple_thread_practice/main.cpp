@@ -10,7 +10,6 @@ class Seaking
 public:
 	void makeFriend()
 	{
-		
 		for (int i = 0; i < 1000; i++)
 		{
 			mutex1.lock();
@@ -18,11 +17,9 @@ public:
 			mm.push_back(i);
 			mutex1.unlock();
 		}
-		
 	}
 	void breakUp()
 	{
-		
 		for (int i = 0; i < 1000; i++)
 		{
 			mutex1.lock();
@@ -37,7 +34,6 @@ public:
 			}
 			mutex1.unlock();
 		}
-		
 	}
 
 protected:
