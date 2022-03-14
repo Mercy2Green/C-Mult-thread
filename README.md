@@ -52,3 +52,4 @@ int main ()
 }
 ```
 
+引用：C++11标准并没有限定thread实现在用户空间或内核空间，但是因为C++11 thread承袭自boost，而各主流系统里的boost库都是基于pthread库实现的，pthread又全部实现在内核空间，所以现状就是在内核空间。
