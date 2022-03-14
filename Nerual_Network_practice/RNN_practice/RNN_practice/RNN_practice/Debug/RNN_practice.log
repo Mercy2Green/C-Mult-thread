@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\workspace\github\c-mult-thread\nerual_network_practice\rnn_practice\rnn_practice\rnn_practice\main.cpp(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\workspace\github\c-mult-thread\nerual_network_practice\rnn_practice\rnn_practice\rnn_practice\main.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\workspace\github\c-mult-thread\nerual_network_practice\rnn_practice\rnn_practice\rnn_practice\main.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RNN_practice.vcxproj -> E:\workspace\GitHub\C-Mult-thread\Nerual_Network_practice\RNN_practice\RNN_practice\Debug\RNN_practice.exe
